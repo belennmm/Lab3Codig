@@ -14,7 +14,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.laboratorio3kotlin.ui.theme.Laboratorio3KotlinTheme
-import android.util.Log
 
 
 // clase food - 1
